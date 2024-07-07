@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+}
+
+.container{
+    background: linear-gradient(135deg,#405D72,#758694 );
+    min-height: 96vh;
+    width: 100%;
+    padding: 10px 
+
+}
+
+.row{
+    background: whitesmoke;
+    max-width: 540px;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 30px;
+}
